@@ -47,9 +47,9 @@ I am a **final-year CSE student** at *Green University of Bangladesh*.
 
 ---
 
-**Tools & Platforms**  
-- Git · GitHub · VS Code · Jupyter Notebook  
-- Google Colab · PyCharm · Eclipse  
+** More Tools & Platforms**  
+
+- Overleaf
 - Agile / Scrum workflows  
 
 ---
