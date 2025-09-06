@@ -6,9 +6,11 @@
 
 ## 👨‍💻 About Me  
 I am a **final-year CSE student** at *Green University of Bangladesh*.  
-I enjoy working on projects that combine **problem-solving, clean UI design, and intelligent algorithms**.  
-Currently, I am conducting **research on Computer Vision and Machine Learning** (real-time image processing & medical imaging).  
+💻 I have knowledge and hands-on experience in Frontend Web Development, Software Quality Assurance (SQA), and Project Management.
 
+🔬 Currently doing research on Computer Vision (Image Processing & Deep Learning).
+
+📚 Always learning and exploring new technologies to improve my skills.
 ---
 
 ## 🔭 Current Research  
